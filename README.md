@@ -9,7 +9,7 @@ This is my mobile app project called ALVION. I'm still learning React Native and
 ## What I Used
 
 - React Native - for building the mobile app
-- TypeScript - for type safety (still learning this!)
+- TypeScript - for type safety 
 - Expo -  I'm using Expo based on the app.json file
 
 ## Prerequisites
@@ -70,8 +70,7 @@ npx expo start
 After starting the app, you should see a QR code in your terminal. You can:
 
 - **For Android:** Scan the QR code with the Expo Go app
-- **For iOS:** Scan the QR code with your iPhone camera
-- **For Emulator:** Press 'a' for Android emulator or 'i' for iOS simulator
+- **For Emulator:** Press 'a' for Android emulator 
 
 ## Project Structure
 
